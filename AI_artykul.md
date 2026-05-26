@@ -14,6 +14,8 @@ GitHub Spark – oprogramowanie, którego celem jest wykorzystanie AI w procesie
 
 ## 2\. Jak narzędzia typu „Al pair programmer" zmieniają codzienną pracę programistów
 
+AI pair programmer – zwrot wywodzi się z języka angielskiego i oznacza „programowanie w parach ze sztuczną inteligencją”. Polega na wykorzystaniu sztucznej inteligencji jako wirtualnego asystenta, który na bieżąco wspomaga programistę w trakcie procesu twórczego, poprzez podpowiadanie fragmentów kodu, debugowanie czy optymalizację gotowych rozwiązań. 
+
 ## 3\. Udział programów wygenerowanych przez Al we wszystkich kodach
 
 ## 4\. Problemy prawne i etyczne
