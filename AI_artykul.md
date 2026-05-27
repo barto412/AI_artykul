@@ -2,25 +2,16 @@
 
 ## Wstęp
 
-W ostatnich latach branża IT przeżywa swój renesans za sprawą rozwoju zaawansowanych systemów sztucznej inteligencji LLM (ang. Large Language Model), głównie poprzez takie modele jak: Gemini, ChatGPT, czy Copilot. Dzięki znaczącemu postępowi w tej dziedzinie już dziś wiele firm, a także programistów zdecydowało się w mniejszym bądź większym stopniu zaadaptować te narzędzia do swoich potrzeb, np. do wspomagania procesu tworzenia kodu, wyszukiwania błędów czy doradztwa klientom. W tym artykule spróbujemy dokładniej przeanalizować to zjawisko oraz jego potencjalnie negatywny bądź pozytywny wpływ na produktywność, jak również kreatywność pracowników branży IT.
+## 1. Analiza ekosystemu GitHub Copilot i GitHub Spark
 
-## 1\. Analiza ekosystemu GitHub Copilot i GitHub Spark
+## 2. Jak narzędzia typu „Al pair programmer" zmieniają codzienną pracę programistów
 
-Ekosystem informatyczny jest to zbiór narzędzi, urządzeń, programów i technologii, które wzajemnie ze sobą współpracują tworząc spójne i wszechstronne środowisko operacyjne.
+## 3. Udział programów wygenerowanych przez Al we wszystkich kodach
 
-GitHub Copilot – narzędzie wykorzystujące sztuczną inteligencję, aby wspomóc programistów w procesie tworzenia programów. Umożliwia generowanie fragmentów kodu, podpowiedzi funkcji czy automatyczne wykrywanie i korygowanie błędów składniowych. Znacząco przyspiesza oraz ułatwia cały proces projektowania, a także implementacji programu twórcy.
+## 4. Problemy prawne i etyczne
 
-GitHub Spark – oprogramowanie, którego celem jest wykorzystanie AI w procesie tworzenia aplikacji w sposób bardziej zautomatyzowany i przyjaźniejszy dla początkujących użytkowników. Platforma ma za zadanie uproszczenie etapu projektowania, jak również budowania programów.
-
-## 2\. Jak narzędzia typu „Al pair programmer" zmieniają codzienną pracę programistów
-
-AI pair programmer – zwrot wywodzi się z języka angielskiego i oznacza „programowanie w parach ze sztuczną inteligencją”. Polega na wykorzystaniu sztucznej inteligencji jako wirtualnego asystenta, który na bieżąco wspomaga programistę w trakcie procesu twórczego, poprzez podpowiadanie fragmentów kodu, debugowanie czy optymalizację gotowych rozwiązań. 
-
-## 3\. Udział programów wygenerowanych przez Al we wszystkich kodach
-
-## 4\. Problemy prawne i etyczne
-
-## 5\. Co czeka branżę IT w najbliższej przyszłości
+## 5. Co czeka branżę IT w najbliższej przyszłości
 
 ## Podsumowanie
 
+Sztuczna inteligencja znacząco wpływa na kreatywność i produktywność programistów. Narzędzia AI przyspieszają pracę i pomagają automatyzować wiele codziennych zadań. Mimo dynamicznego rozwoju technologii człowiek nadal pozostaje najważniejszym elementem procesu tworzenia oprogramowania.
