@@ -8,9 +8,9 @@
 
 ## 3. Udział programów wygenerowanych przez Al we wszystkich kodach
 
-Rozwój AI powoduje wiele pytań związanych z prawami autorskimi i bezpieczeństwem kodu. Nie zawsze wiadomo, kto jest właścicielem kodu wygenerowanego przez sztuczną inteligencję. Pojawiają się także obawy, że AI może ograniczyć liczbę miejsc pracy dla początkujących programistów.
-
 ## 4. Problemy prawne i etyczne
+
+Rozwój AI powoduje wiele pytań związanych z prawami autorskimi i bezpieczeństwem kodu. Nie zawsze wiadomo, kto jest właścicielem kodu wygenerowanego przez sztuczną inteligencję. Pojawiają się także obawy, że AI może ograniczyć liczbę miejsc pracy dla początkujących programistów.
 
 ## 5. Co czeka branżę IT w najbliższej przyszłości
 
