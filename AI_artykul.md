@@ -29,3 +29,5 @@ Rozwój AI powoduje wiele pytań związanych z prawami autorskimi i bezpieczeńs
 W przyszłości sztuczna inteligencja będzie jeszcze bardziej zintegrowana z procesem tworzenia oprogramowania. Programiści będą musieli rozwijać umiejętności współpracy z AI oraz analizowania wygenerowanych rozwiązań. Możliwe jest również powstanie nowych zawodów związanych z projektowaniem i kontrolą systemów sztucznej inteligencji.
 
 ## Podsumowanie
+
+Sztuczna inteligencja znacząco wpływa na kreatywność i produktywność programistów. Narzędzia AI przyspieszają pracę i pomagają automatyzować wiele codziennych zadań. Mimo dynamicznego rozwoju technologii człowiek nadal pozostaje najważniejszym elementem procesu tworzenia oprogramowania.
