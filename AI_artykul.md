@@ -26,5 +26,6 @@ Rozwój AI powoduje wiele pytań związanych z prawami autorskimi i bezpieczeńs
 
 ## 5\. Co czeka branżę IT w najbliższej przyszłości
 
-## Podsumowanie
+W przyszłości sztuczna inteligencja będzie jeszcze bardziej zintegrowana z procesem tworzenia oprogramowania. Programiści będą musieli rozwijać umiejętności współpracy z AI oraz analizowania wygenerowanych rozwiązań. Możliwe jest również powstanie nowych zawodów związanych z projektowaniem i kontrolą systemów sztucznej inteligencji.
 
+## Podsumowanie
